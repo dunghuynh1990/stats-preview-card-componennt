@@ -29,8 +29,8 @@ Mobile                                            |  Desktop
 
 ### Links
 
-- Solution URL: [https://github.com/dunghuynh1990/stats-preview-card-componennt](https://github.com/dunghuynh1990/stats-preview-card-componennt)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/dunghuynh1990/stats-preview-card-componennt)
+- [Live Site](https://60e52e85d12f42000768aef0--vigilant-jennings-07960e.netlify.app/)
 
 ## My process
 
