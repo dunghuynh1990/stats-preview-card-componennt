@@ -1,5 +1,51 @@
-## Welcome to GitHub Pages
+# Frontend Mentor - Stats preview card component solution
 
-You can use the [editor on GitHub](https://github.com/dunghuynh1990/stats-preview-card-componennt/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+- [Author](#author)
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+
+### Screenshot
+
+Mobile                                            |  Desktop
+:------------------------------------------------:|:---------------------------------------------------:
+<img src="./screenshots/mobile.png" width="200">  |  <img src="./screenshots/desktop.png" height="300">
+
+### Links
+
+- Solution URL: [https://github.com/dunghuynh1990/stats-preview-card-componennt](https://github.com/dunghuynh1990/stats-preview-card-componennt)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+- Bootstrap 
+- Flexbox
+- [React](https://reactjs.org/) - JS library
+
+### What I learned
+
+- Apply Bootstrap in React
+- Use ```@media``` property for different screen sizes
+- Set image from css by using ```content``` property
+
+## Author
+
+- [My Github profile](https://github.com/dunghuynh1990)
+- Frontend Mentor - [@dunghuynh1990](https://www.frontendmentor.io/profile/dunghuynh1990)
