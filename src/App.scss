@@ -19,7 +19,14 @@ $fInter700: Inter-700;
 #violet {
   color: hsl(277, 64%, 61%);
 }
-
+.stats-desc {
+  font-size: 12px;
+  font-family: $fInter700;
+  color: hsla(0, 0%, 100%, 0.6);
+}
+.card-gap {
+  height: 20%;
+}
 @media only screen and (min-width: 1200px) {
   .card-container {
     padding: 0;
@@ -39,7 +46,7 @@ $fInter700: Inter-700;
       .text-layout {
         flex: 1;
         padding: 60px 100px 60px 60px;
-        #fInter700 {
+        .fInter700 {
           font-family: $fInter700;
           font-size: 36px;
         }
@@ -52,15 +59,9 @@ $fInter700: Inter-700;
         .stats-layout {
           display: flex;
           margin-top: 70px;
-          #stats {
+          .stats {
             font-size: 22px;
             font-family: $fInter700;
-          }
-
-          #stats-desc {
-            font-size: 12px;
-            font-family: $fInter700;
-            color: hsla(0, 0%, 100%, 0.6);
           }
         }
       }
@@ -75,14 +76,11 @@ $fInter700: Inter-700;
           opacity: 0.4;
           border-top-right-radius: 10px;
           border-bottom-right-radius: 10px;
-          // background: url(./assets/images/image-header-desktop.jpg) no-repeat;
           content: url('./assets/images/image-header-desktop.jpg');
         }
       }
     }
-    .card-gap {
-      height: 20%;
-    }
+    
   }
 }
 
@@ -108,7 +106,7 @@ $fInter700: Inter-700;
         flex: 1;
         padding: 30px;
 
-        #fInter700 {
+        .fInter700 {
           font-family: $fInter700;
           font-size: 26px;
           text-align: center;
@@ -124,16 +122,10 @@ $fInter700: Inter-700;
           display: flex;
           flex-direction: column;
           text-align: center;
-          #stats {
+          .stats {
             margin-top: 30px;
             font-size: 22x;
             font-family: $fInter700;
-          }
-
-          #stats-desc {
-            font-size: 12px;
-            font-family: $fInter700;
-            color: hsla(0, 0%, 100%, 0.6);
           }
         }
       }
@@ -154,9 +146,6 @@ $fInter700: Inter-700;
           display: block;
         }
       }
-    }
-    .card-gap {
-      height: 20%;
     }
   }
 }
