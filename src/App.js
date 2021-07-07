@@ -29,7 +29,7 @@ function App() {
           </div>
         </div>
         <div className="image-layout">
-          <img src="" alt="picture" />
+          <img src="" alt=""/>
         </div>
       </div>
       <div className="card-gap"></div>
