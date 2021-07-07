@@ -29,7 +29,7 @@ Mobile                                            |  Desktop
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://github.com/dunghuynh1990/stats-preview-card-componennt](https://github.com/dunghuynh1990/stats-preview-card-componennt)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process

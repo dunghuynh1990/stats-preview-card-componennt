@@ -1,6 +1,5 @@
 import "./App.scss";
-import picture1 from "./assets/images/image-header-desktop.jpg";
-import picture2 from "./assets/images/image-header-mobile.jpg";
+
 function App() {
   return (
     <div className="card-container">
